@@ -1,0 +1,21 @@
+{
+  "name": "p5play-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@types/p5": "1.6.0",
+    "p5": "1.6.0",
+    "p5.play": "^3.7.18",
+    "planck-js": "^0.3.31"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1",
+    "typescript": "^5.0.2"
+  },
+  "keywords": []
+}
